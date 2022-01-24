@@ -1,4 +1,4 @@
-## React Food Ordering App
+## Redux Cart
 
 !["Redux Cart"](https://github.com/WebDevBernard/Redux-Store/blob/main/img/redux-store.png?raw=true)
 
